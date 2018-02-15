@@ -1,0 +1,38 @@
+body{
+  font-family: sans-serif;
+  margin:0px;
+}
+#navbar ul{
+  border-radius:5px;
+  background: gray;
+}
+#navbar li{
+  list-style-type:none;
+  display: inline-block;
+  border-right: 1px black;
+  padding-top: 13px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  width: 100px;
+}
+#navbar a{
+  text-decoration: none;
+  color:black;
+}
+#project-wrapper {
+
+}
+img{
+  border-radius: 5px;
+  width:300px;
+}
+
+.projects{
+  border-radius: 5px;
+  width:300px;
+  margin: 15px;
+  text-align: center;
+  display: inline-block;
+  background: wheat;
+}
+
